@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/consectetur-aspernatur-illum-asperiores",
-  "version": "7.11.200",
+  "version": "7.11.201",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -156,5 +156,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/consectetur-aspernatur-illum-asperiores/issues"
   },
-  "packageManager": "yarn@4.5.2"
+  "packageManager": "yarn@4.5.3"
 }
